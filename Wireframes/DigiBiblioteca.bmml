@@ -1,4 +1,4 @@
-<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2161" measuredH="853" mockupW="2123" mockupH="828">
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="2161" measuredH="962" mockupW="2123" mockupH="937">
   <controls>
     <control controlID="0" controlTypeID="__group__" x="399" y="25" w="314" h="576" measuredW="314" measuredH="576" zOrder="0" locked="false" isInGroup="-1">
       <controlProperties>
@@ -944,32 +944,32 @@
         <text/>
       </controlProperties>
     </control>
-    <control controlID="114" controlTypeID="com.balsamiq.mockups::StickyNote" x="841" y="515" w="192" h="213" measuredW="109" measuredH="123" zOrder="65" locked="false" isInGroup="-1">
+    <control controlID="114" controlTypeID="com.balsamiq.mockups::StickyNote" x="834" y="624" w="192" h="213" measuredW="109" measuredH="123" zOrder="65" locked="false" isInGroup="-1">
       <controlProperties>
         <text>PROTOTIPO%21%0A%20%0AFuncionalidades%3A%0A-%20Agregar%20libros%20%28d%F3nde%20se%20puede%20conseguir%29%0A%20%0APatrones%0A-%20Formulario%20en%20varios%20pasos%20%28mapa%20para%20poner%20donde%20se%20puede%20comprar%29</text>
       </controlProperties>
     </control>
-    <control controlID="115" controlTypeID="com.balsamiq.mockups::StickyNote" x="476" y="506" w="160" h="162" measuredW="109" measuredH="123" zOrder="66" locked="false" isInGroup="-1">
+    <control controlID="115" controlTypeID="com.balsamiq.mockups::StickyNote" x="476" y="624" w="160" h="162" measuredW="109" measuredH="123" zOrder="66" locked="false" isInGroup="-1">
       <controlProperties>
         <text>**%20Modificar%20se%20podr%EDa%20quitar%2C%20no%20viene%20en%20las%20funcionalidades%20**%0A%20%0AFuncionalidades%3A%0A-%20Agregar%20reviews%0A%20%0APatrones</text>
       </controlProperties>
     </control>
-    <control controlID="116" controlTypeID="com.balsamiq.mockups::StickyNote" x="1179" y="515" w="230" h="338" measuredW="109" measuredH="123" zOrder="67" locked="false" isInGroup="-1">
+    <control controlID="116" controlTypeID="com.balsamiq.mockups::StickyNote" x="1179" y="624" w="230" h="338" measuredW="109" measuredH="123" zOrder="67" locked="false" isInGroup="-1">
       <controlProperties>
         <text>PROTOTIPO%21%20%28B%FAsqueda%20sencilla%29%0A%20%0AFuncionalidades%3A%0A-%20Buscador%20de%20libros%0A-%20Recomendaci%F3n%20de%20libros%0A-%20Secci%F3n%20lo%20m%E1s%20leido%0A%20%0APatrones%0A-%20B%FAsqueda%20autocompletado%2C%20alcance%20%28g%E9nero%20y%20autor%29%20y%20recomendada%0A-%20Ordenamiento%20superior%20alfab%E9tico%2C%20calificaci%F3n%20%28m%E1s%20alta%29%20y%20a%F1o%20de%20publicaci%F3n%20%28m%E1s%20reciente%29%0A-%20Filtros%20calificaci%F3n%20m%EDnima%20y%20a%F1o%20de%20publicaci%F3n%20m%EDnimo%0A-%20Navegaci%F3n%20primaria%20%28tab%20bar%29%20y%20secundaria%20%28carrusel%29</text>
       </controlProperties>
     </control>
-    <control controlID="117" controlTypeID="com.balsamiq.mockups::StickyNote" x="1549" y="521" w="198" h="271" measuredW="109" measuredH="123" zOrder="68" locked="false" isInGroup="-1">
+    <control controlID="117" controlTypeID="com.balsamiq.mockups::StickyNote" x="1555" y="624" w="198" h="271" measuredW="109" measuredH="123" zOrder="68" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Funcionalidades%3A%0A-%20Decir%20si%20uno%20ha%20leido%20un%20libro%20o%20no%0A-%20Libros%20favoritos%20%28distintivo%20coraz%F3n%29%0A-%20Compartir%20en%20facebook%0A%20%0APatrones%0A-%20Despliegue%20de%20datos%3A%20tablas%20sin%20encabezado%20y%20master%20-%20detail%0A-%20Herramientas%20contextuales%20%28eliminar%20y%20marcar%20como%20favorito%29</text>
       </controlProperties>
     </control>
-    <control controlID="118" controlTypeID="com.balsamiq.mockups::StickyNote" x="1914" y="506" w="198" h="177" measuredW="109" measuredH="123" zOrder="69" locked="false" isInGroup="-1">
+    <control controlID="118" controlTypeID="com.balsamiq.mockups::StickyNote" x="1914" y="624" w="198" h="177" measuredW="109" measuredH="123" zOrder="69" locked="false" isInGroup="-1">
       <controlProperties>
         <text>**%20Registro%20se%20puede%20hacer%20con%20modal%20**%0A%20%0AFuncionalidades%3A%0A-%20Identificaci%F3n%20con%20facebook%0A%20%0APatrones%0A-%20Formulario%20de%20ingreso</text>
       </controlProperties>
     </control>
-    <control controlID="119" controlTypeID="com.balsamiq.mockups::StickyNote" x="110" y="515" w="171" h="145" measuredW="109" measuredH="123" zOrder="70" locked="false" isInGroup="-1">
+    <control controlID="119" controlTypeID="com.balsamiq.mockups::StickyNote" x="106" y="624" w="171" h="145" measuredW="109" measuredH="123" zOrder="70" locked="false" isInGroup="-1">
       <controlProperties>
         <text>**%20Se%20podr%EDa%20simplificar%20con%20un%20modal%20**%0A%20%0AFuncionalidades%3A%0A-%20Ver%20perfil%20de%20libros%0A%20%0APatrones</text>
       </controlProperties>
